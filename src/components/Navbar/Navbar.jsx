@@ -135,7 +135,7 @@ const Navbar = () => {
               <li><Link to="/Animal-feed">Animal Feed</Link></li>
             </ul>
           </li>
-          <li className="nav-link"><a href="/Contact">Contact</a></li>
+          <li className="nav-link"><Link to="/Contact">Contact</Link></li>
         </ul>
       </div>
 
